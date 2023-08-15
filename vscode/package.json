@@ -922,7 +922,7 @@
     }
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.4.2",
+    "@anthropic-ai/sdk": "^0.5.8",
     "@sourcegraph/cody-shared": "workspace:*",
     "@sourcegraph/cody-ui": "workspace:*",
     "@types/stream-json": "^1.7.3",
